@@ -15,10 +15,10 @@ Welcome to CollabRent, an innovative web application that revolutionizes the way
 ## Team Members
 
 We would like to express our gratitude to the talented individuals who made CollabRent possible:
-
+- Fatima DAKAK
 - TAHA EL HOR
 - Ayoub GUACHOUR
-- Fatima DAKAK
+- Ghada JAMAL
 - Asmae EL MAKHROUBI
 - Souhaila SAKHRI
 
