@@ -41,3 +41,4 @@ We welcome contributions to enhance and improve CollabRent. If you have any idea
 Thank you for choosing CollabRent! Enjoy the exciting world of borrowing and lending with ease.
 
 ## Demo
+
