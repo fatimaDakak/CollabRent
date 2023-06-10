@@ -1,0 +1,85 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+body{
+margin: 0;
+padding: 0;
+}
+
+.custom-bg {
+    background-color: #1c3988;
+  }
+
+.card {
+    flex-basis: calc(33.33% - 2rem);
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    overflow: hidden;
+    transition: all 0.2s ease-in-out;
+
+  }
+
+
+    .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+    }
+
+    .card img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    display: block;
+    }
+
+    .card h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #333;
+    text-align: center;
+    padding: 10px;
+    background-color: #f8f8f8;
+    border-bottom: 1px solid #ccc;
+    }
+
+    .card p {
+    font-size: 14px;
+    color: #666;
+    padding: 10px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+
+
+
+
+
+
+
+
+
+  .card img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+
+  .card h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+
+  .card p {
+    font-size: 14px;
+    color: #666;
+  }
+  .button-container {
+    display: flex;
+    justify-content: center; /* centers items along the main axis */
+    margin-top: 20px; /* adjust to fit your design */
+  }
+
+
